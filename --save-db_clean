@@ -1,0 +1,140 @@
+{
+  "SourceFile": "RACASDIA INTERSOFT (2).xlsx",
+  "Sheet": "Page1",
+  "Rows": [
+    {
+      "Order": "Recapitulatia:",
+      "Symbol": "",
+      "Name": "Recapitulatie",
+      "UnitOfMeasure": "",
+      "Categories": {
+        "Materials": {
+          "Quantity": 0.0,
+          "UnitPrice": 0.0,
+          "Total": 0.0
+        },
+        "Labor": {
+          "Quantity": 0.0,
+          "UnitPrice": 0.0,
+          "Total": 0.0
+        },
+        "Equipment": {
+          "Quantity": 0.0,
+          "UnitPrice": 0.0,
+          "Total": 0.0
+        },
+        "Transport": {
+          "Quantity": 0.0,
+          "UnitPrice": 0.0,
+          "Total": 0.0
+        }
+      },
+      "Quantity": 0.0,
+      "UnitPrice": 0.0,
+      "LineTotal": 0.0,
+      "ComputedLineTotal": 0.0,
+      "SheetLineTotal": 0.0,
+      "Validation": {
+        "CategoriesTotal": 0.0,
+        "ComputedLineTotal": 0.0,
+        "SheetLineTotal": 0.0,
+        "DifferenceToLineTotal": 0.0,
+        "DifferenceToComputedLineTotal": 0.0,
+        "DifferenceToSheetLineTotal": 0.0,
+        "CategoriesMatchLineTotal": true,
+        "ComputedMatchesSheet": true,
+        "Issues": []
+      },
+      "Notes": ""
+    }
+  ],
+  "ComputedTotals": {
+    "Materials": 0.0,
+    "Labor": 0.0,
+    "Equipment": 0.0,
+    "Transport": 0.0,
+    "GrandTotal": 16398288.62,
+    "DirectGrandTotal": 0.0,
+    "LeafGrandTotal": 0.0,
+    "AllRowsGrandTotal": 0.0,
+    "OtherDirectCosts": 44799.8,
+    "TotalCheltuieliDirecte": 44799.8,
+    "CheltuieliIndirecte": 13123880.45,
+    "Profit": 656194.02,
+    "TotalDevizFaraTvaInitial": 0.0,
+    "TotalDevizFaraTvaFinal": 13824874.27,
+    "TotalGeneralFaraTva": 13780074.47,
+    "Vat": 2618214.15,
+    "MaterialsQuantity": 0.0,
+    "LaborQuantity": 0.0,
+    "EquipmentQuantity": 0.0,
+    "TransportQuantity": 0.0,
+    "OverallQuantity": 0.0,
+    "GrandTotalFromSheetLines": 0.0,
+    "GrandTotalFromComputedLines": 0.0
+  },
+  "Validation": {
+    "GrandTotalFromSheet": 16398288.62,
+    "GrandTotalMatchesSheet": true,
+    "Errors": [],
+    "CategorySummaries": {
+      "materials": {
+        "Key": "materials",
+        "Label": "Materiale",
+        "RowIndex": 0,
+        "ComputedTotal": 0.0,
+        "SheetTotal": null,
+        "TotalMatches": true,
+        "ComputedQuantity": 0.0,
+        "SheetQuantity": null,
+        "QuantityMatches": true
+      },
+      "labor": {
+        "Key": "labor",
+        "Label": "Manoperă",
+        "RowIndex": 0,
+        "ComputedTotal": 0.0,
+        "SheetTotal": null,
+        "TotalMatches": true,
+        "ComputedQuantity": 0.0,
+        "SheetQuantity": null,
+        "QuantityMatches": true
+      },
+      "equipment": {
+        "Key": "equipment",
+        "Label": "Utilaje",
+        "RowIndex": 0,
+        "ComputedTotal": 0.0,
+        "SheetTotal": null,
+        "TotalMatches": true,
+        "ComputedQuantity": 0.0,
+        "SheetQuantity": null,
+        "QuantityMatches": true
+      },
+      "transport": {
+        "Key": "transport",
+        "Label": "Transport",
+        "RowIndex": 0,
+        "ComputedTotal": 0.0,
+        "SheetTotal": null,
+        "TotalMatches": true,
+        "ComputedQuantity": 0.0,
+        "SheetQuantity": null,
+        "QuantityMatches": true
+      }
+    },
+    "GrandTotalSummary": {
+      "Key": "grandTotal",
+      "Label": "TOTAL GENERAL:",
+      "RowIndex": 1377,
+      "ComputedTotal": 16398288.62,
+      "SheetTotal": 16398288.62,
+      "TotalMatches": true,
+      "ComputedQuantity": 0.0,
+      "SheetQuantity": null,
+      "QuantityMatches": true
+    },
+    "TotalQuantitySummary": null,
+    "RowIssues": []
+  }
+}

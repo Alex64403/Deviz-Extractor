@@ -1,0 +1,12 @@
+c:\Users\alexa\OneDrive\Desktop\proiecte\TEST\test\DevizParsing.Core\bin\Debug\net9.0\DevizParsing.Core.deps.json
+c:\Users\alexa\OneDrive\Desktop\proiecte\TEST\test\DevizParsing.Core\bin\Debug\net9.0\DevizParsing.Core.dll
+c:\Users\alexa\OneDrive\Desktop\proiecte\TEST\test\DevizParsing.Core\bin\Debug\net9.0\DevizParsing.Core.pdb
+c:\Users\alexa\OneDrive\Desktop\proiecte\TEST\test\DevizParsing.Core\obj\Debug\net9.0\DevizParsing.Core.csproj.AssemblyReference.cache
+c:\Users\alexa\OneDrive\Desktop\proiecte\TEST\test\DevizParsing.Core\obj\Debug\net9.0\DevizParsing.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexa\OneDrive\Desktop\proiecte\TEST\test\DevizParsing.Core\obj\Debug\net9.0\DevizParsing.Core.AssemblyInfoInputs.cache
+c:\Users\alexa\OneDrive\Desktop\proiecte\TEST\test\DevizParsing.Core\obj\Debug\net9.0\DevizParsing.Core.AssemblyInfo.cs
+c:\Users\alexa\OneDrive\Desktop\proiecte\TEST\test\DevizParsing.Core\obj\Debug\net9.0\DevizParsing.Core.csproj.CoreCompileInputs.cache
+c:\Users\alexa\OneDrive\Desktop\proiecte\TEST\test\DevizParsing.Core\obj\Debug\net9.0\DevizParsing.Core.dll
+c:\Users\alexa\OneDrive\Desktop\proiecte\TEST\test\DevizParsing.Core\obj\Debug\net9.0\refint\DevizParsing.Core.dll
+c:\Users\alexa\OneDrive\Desktop\proiecte\TEST\test\DevizParsing.Core\obj\Debug\net9.0\DevizParsing.Core.pdb
+c:\Users\alexa\OneDrive\Desktop\proiecte\TEST\test\DevizParsing.Core\obj\Debug\net9.0\ref\DevizParsing.Core.dll
